@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsath
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning java
+- 👀 I'm a Full-Stack Developer/Engineer
+- 🌱 I’m currently learning more about the MERN stack
 - 💞️ I’m looking to collaborate on any projects that could use help
 
 <!---
