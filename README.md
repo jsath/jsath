@@ -12,19 +12,35 @@ You can click the Preview link to take a look at your changes.
 
 ### I've been utilizing the below technologies to build full stack applications!
 
-* [![Java][Java.com]][Java-url]
-* [![CSS][CSS.com]][CSS-url]
-* [![SpringBoot][SpringBoot.com]][SpringBoot-url]
-* [![MySQL][MySQL.com]][MySQL-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* [![Javascript][Javascript.com]][Javascript-url]
-* [![HTML/JSP][HTML.com]][HTML-url]
-* [![Python][Python.com]][Python-url]
-* [![Amazon Ec2][EC2.com]][EC2-url]
-* [![Visual Studio Code][VS.com]][VS-url]
-* [![Apache][Apache.com]][Apache-url]
-* [![Github][Github.com]][Github-url]
+
+[![HTML/JSP][HTML.com]][HTML-url]
+[![CSS][CSS.com]][CSS-url]
+[![Javascript][Javascript.com]][Javascript-url]
+[![Node.js][Node.com]][Node-url]
+[![JQuery][JQuery.com]][JQuery-url]
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![React][React.com]][React-url]
+
+[![Json][Json.com]][Json-url]
+[![Visual Studio Code][VS.com]][VS-url]
+[![Jinja][Jinja.com]][Jinja-url]
+[![Amazon Ec2][EC2.com]][EC2-url] 
+[![Apache][Apache.com]][Apache-url]
+[![Github][Github.com]][Github-url]
+[![AWS][AWS.com]][AWS-url]
+
+
+[![Java][Java.com]][Java-url]
+[![MySQL][MySQL.com]][MySQL-url]
+[![Python][Python.com]][Python-url]
+[![Express][Express.com]][Express-url]
+[![Flask][Flask.com]][Flask-url]
+[![SpringBoot][SpringBoot.com]][SpringBoot-url]
+[![Maven][Maven.com]][Maven-url]
+
+
+
+
 
 
 
@@ -33,9 +49,11 @@ You can click the Preview link to take a look at your changes.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Java.com]: https://img.shields.io/badge/Java-red
 [Java-url]: https://docs.oracle.com/en/java/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[React.com]: https://img.shields.io/badge/-React-black?logo=react
+[React-url]: https://reactjs.org/
+[JQuery.com]: https://img.shields.io/badge/jQuery-blue?logo=jquery
 [JQuery-url]: https://jquery.com 
 [Javascript.com]: https://img.shields.io/badge/Javascript-yellow?logo=javascript
 [Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -47,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [HTML.com]: https://img.shields.io/badge/-HTML-orange?logo=HTML5
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[Python.com]:https://img.shields.io/badge/-python-orange?logo=python
+[Python.com]:https://img.shields.io/badge/-Python-orange?logo=python
 [Python-url]: https://docs.python.org/3/
 [EC2.com]: https://img.shields.io/badge/-EC2-black?logo=amazonec2
 [EC2-url]: https://docs.aws.amazon.com/ec2/index.html
@@ -57,7 +75,20 @@ You can click the Preview link to take a look at your changes.
 [Apache-url]:https://httpd.apache.org/docs/
 [Github.com]:https://img.shields.io/badge/-Github-black?logo=github
 [Github-url]: https://github.com/jsath
-
+[Node.com]: https://img.shields.io/badge/-Node.js-black?logo=nodedotjs
+[Node-url]: https://nodejs.org/en/
+[Json.com]: https://img.shields.io/badge/-Json-gray?logo=json
+[Json-url]: https://www.json.org/json-en.html
+[Jinja.com]: https://img.shields.io/badge/-Jinja-red?logo=jinja
+[Jinja-url]: https://img.shields.io/badge/-Jinja-red?logo=jinja](https://jinja.palletsprojects.com/en/3.1.x/)
+[Flask.com]: https://img.shields.io/badge/-Flask-red?logo=flask
+[Flask-url]: https://flask.palletsprojects.com/en/2.2.x/
+[Express.com]: https://img.shields.io/badge/-Express-black?logo=express
+[Express-url]: https://www.prisma.io/express
+[AWS.com]: https://img.shields.io/badge/-AWS-orange?logo=amazonaws
+[AWS-url]: https://aws.amazon.com/
+[Maven.com]: https://img.shields.io/badge/-Maven-red?logo=apachemaven
+[Maven-url]: https://maven.apache.org/
 
 
 
