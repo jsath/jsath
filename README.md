@@ -1,14 +1,20 @@
-- 👋 Hi, I’m @jsath
+- 👋 Hi I'm Johann!
 - 👀 I'm a Full-Stack Developer/Engineer
 - 🌱 I’m currently learning more about the MERN stack
 - 💞️ I’m looking to collaborate on any projects that could use help
+
+Feel free to add me on Linkedin [![Johann][Johann.com]][Johann-url]
 
 <!---
 jsath/jsath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsath&show_icons=true&theme=dark)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsath&layout=compact)](https://github.com/jsath/github-readme-stats)
+-->
 
 ### I've been utilizing the below technologies to build full stack applications!
 
@@ -90,6 +96,9 @@ You can click the Preview link to take a look at your changes.
 [Maven.com]: https://img.shields.io/badge/-Maven-red?logo=apachemaven
 [Maven-url]: https://maven.apache.org/
 
+
+[Johann.com]: https://img.shields.io/badge/-Johann%20Sathianathen-blue?logo=linkedin
+[Johann-url]: https://www.linkedin.com/in/jsathianathen/
 
 
 
