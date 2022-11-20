@@ -1,7 +1,6 @@
 - 👋 Hi I'm Johann!
 - 👀 I'm a Full-Stack Developer/Engineer
-- 🌱 I’m currently learning more about the MERN stack
-- 💞️ I’m looking to collaborate on any projects that could use help
+- 💞️ I’m looking to collaborate on any projects that could use help, especially all things web3!
 
 Feel free to add me on Linkedin [![Johann][Johann.com]][Johann-url]
 
