@@ -1,8 +1,12 @@
-- 👋 Hi I'm Johann!
-- 👀 I'm a Full-Stack Developer/Engineer
-- 💞️ I’m looking to collaborate on any projects that could use help, especially all things web3!
+Hi I'm Johann!
 
-Feel free to add me on Linkedin [![Johann][Johann.com]][Johann-url]
+I'm a Full-Stack Software Engineer with over 2 years of programming experience. 
+
+Some things that interest me are web3, basketball and running
+
+Let me know if you have any projects that can use some collaboration, I would love to start building with you! 
+
+Linkedin - [![Johann][Johann.com]][Johann-url]
 
 <!---
 jsath/jsath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
