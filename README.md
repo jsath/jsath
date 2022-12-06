@@ -5,7 +5,6 @@ Let me know if you have any projects that can use some collaboration, I would lo
   
 
 
-Linkedin - [![Johann][Johann.com]][Johann-url]
 
 
 <!---
@@ -14,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsath&show_icons=true&theme=dark)
+  
+  
+Linkedin - [![Johann][Johann.com]][Johann-url]
 
 
 <!--
