@@ -1,12 +1,12 @@
-Hi I'm Johann!
-
-I'm a Full-Stack Software Engineer with over 2 years of programming experience. 
-
+<div align="center">
+Hi I'm Johann, a Full-Stack Software Engineer with over 2 years of programming experience. 
 Some things that interest me are web3, basketball and running
+Let me know if you have any projects that can use some collaboration, I would love to start building with you!
+  
 
-Let me know if you have any projects that can use some collaboration, I would love to start building with you! 
 
 Linkedin - [![Johann][Johann.com]][Johann-url]
+
 
 <!---
 jsath/jsath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsath&show_icons=true&theme=dark)
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsath&layout=compact)](https://github.com/jsath/github-readme-stats)
@@ -47,6 +48,13 @@ You can click the Preview link to take a look at your changes.
 [![SpringBoot][SpringBoot.com]][SpringBoot-url]
 [![Maven][Maven.com]][Maven-url]
 
+
+<h4>Visitor Count</h4>
+<img src="https://profile-counter.glitch.me/jsath/count.svg" />
+  
+ 
+
+ </div>
 
 
 
