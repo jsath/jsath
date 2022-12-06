@@ -1,6 +1,6 @@
 <div align="center">
 Hi I'm Johann, a Full-Stack Software Engineer with over 2 years of programming experience. 
-Some things that interest me are web3, basketball and running
+Some things that interest me are web3, basketball and running.
 Let me know if you have any projects that can use some collaboration, I would love to start building with you!
   
 
