@@ -25,10 +25,11 @@ You can click the Preview link to take a look at your changes.
 [![HTML/JSP][HTML.com]][HTML-url]
 [![CSS][CSS.com]][CSS-url]
 [![Javascript][Javascript.com]][Javascript-url]
+[![React][React.com]][React-url]
 [![Node.js][Node.com]][Node-url]
 [![JQuery][JQuery.com]][JQuery-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-[![React][React.com]][React-url]
+[![Next.js][Next.com]][Next-url]
 
 [![Json][Json.com]][Json-url]
 [![Visual Studio Code][VS.com]][VS-url]
@@ -105,7 +106,8 @@ You can click the Preview link to take a look at your changes.
 [AWS-url]: https://aws.amazon.com/
 [Maven.com]: https://img.shields.io/badge/-Maven-red?logo=apachemaven
 [Maven-url]: https://maven.apache.org/
-
+[Next.com]: https://img.shields.io/badge/-Next.js-black?logo=nextdotjs
+[Next-url]: https://nextjs.org/
 
 [Johann.com]: https://img.shields.io/badge/-Johann%20Sathianathen-blue?logo=linkedin
 [Johann-url]: https://www.linkedin.com/in/jsathianathen/
