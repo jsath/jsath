@@ -12,7 +12,7 @@ jsath/jsath is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Johann' GitHub stats](https://github-readme-stats.vercel.app/api?username=jsath&show_icons=true&theme=dark)
+![Johann's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsath&show_icons=true&theme=dark)
   
 
 <!--
