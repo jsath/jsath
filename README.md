@@ -21,14 +21,6 @@ I build bootstrapped software companies & AI systems.
 - shipped a few products that worked and a lot more that failed
 - currently focused on building Cyndra into a serious AI implementation company
 
-## what i work on
-
-- AI agents & workflow automation
-- SaaS products
-- developer tools
-- APIs & integrations
-- product, growth & distribution
-
 ## more
 
 follow what i'm building at **[johann.fyi](https://www.johann.fyi)**.
